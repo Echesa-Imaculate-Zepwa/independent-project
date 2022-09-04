@@ -19,5 +19,10 @@ h1{
 }
 p{
     font-size: 14px;
-
 }
+img {
+    opacity: 0.5;
+   }
+   h2{
+    color: cyan;
+  }     
